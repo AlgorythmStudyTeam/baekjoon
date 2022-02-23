@@ -45,7 +45,7 @@
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |:---------------:|:---------------:|
 | 00 | Data Structure | 자료구조 | [바로가기](./data_structure) | 16 | 25 | ![status][Doing] |
 | 01 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 11 | 21 | ![status][Doing] |
-| 02 | Tree | 트리 | [바로가기](./tree) | 15 | 44 | ![status][Doing] |
+| 02 | Tree | 트리 | [바로가기](./tree) | 15 | 44 | ![status][Doing] |:heavy_check_mark:|
 | 03 | Math | 수학 | [바로가기](./math) | 18 | 29 | ![status][Doing] |
 | 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 27 | 62 | ![status][Doing] |:heavy_check_mark:
 | 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 27 | 80 | ![status][Doing] |
@@ -55,10 +55,10 @@
 | 09 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) | 31 | 96 | ![status][Doing] |
 | 10 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 33 | 94 | ![status][Doing] |:heavy_check_mark:|
 | 11 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 30 | 48 | ![status][Doing] |
-| 12 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 20 | 66 | ![status][Doing] |
+| 12 | Binary Search | 이분탐색 | [바로가기](./binary_search) | 20 | 66 | ![status][Doing] |:heavy_check_mark:|
 | 13 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 28 | 75 | ![status][Doing] |:heavy_check_mark:|
 | 14 | Divide and conquer | 분할정복 | [바로가기](./divide_and_conquer) | 08 | 18 | ![status][Doing] |:heavy_check_mark:|
-| 15 | Prefix Sum | 누적 합 | [바로가기](./prefix_sum) | 11 | 32 | ![status][Doing] |
+| 15 | Prefix Sum | 누적 합 | [바로가기](./prefix_sum) | 11 | 32 | ![status][Doing] |:heavy_check_mark:|
 | 16 | String | 문자열 | [바로가기](./string) | 19 | 63 | ![status][Doing] |:heavy_check_mark:|
 | 17 | Shortest Path | 최단거리 | [바로가기](./shortest_path) | 18 | 53 | ![status][Doing] |
 | 18 | Topological Sorting | 위상정렬 | [바로가기](./topological_sorting) | 05 | 14 | ![status][Doing] |
